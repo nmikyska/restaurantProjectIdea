@@ -1,0 +1,16 @@
+/*
+ Theme Name: nmikyska restaurant child theme
+ Theme URI: http://www.nmikyska.com
+ Description: Child theme for the restaurant layout I'm creating
+ Author: Nancy Mikyska
+ Author URI: http://www.nmikyska.com
+ Template: Divi
+ Version: 1.0.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+#navigationBar{
+	position: fixed !important;
+	top: 0;
+	z-index:9999;
+}
